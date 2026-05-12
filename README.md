@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Elisaveta 👋
 
-<!--
-**zaruba8/zaruba8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 5+ years of experience in product, operational and financial analytics.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL
+* Python
+* Power BI
+* PostgreSQL
+* BigQuery
+* ETL
+* Pandas
+* Yandex DataLens
+
+## Background
+
+* Ex-Yandex
+* HSE Master of Data Science
+* Product & Business Analytics
+* Reporting Automation
+* Dashboarding & Data Visualization
+
+## Currently Learning
+
+* dbt
+* Modern Data Stack
+* Advanced SQL
+* BigQuery
