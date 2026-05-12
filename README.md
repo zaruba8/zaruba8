@@ -1,6 +1,6 @@
 # Hi, I'm Elisaveta 👋
 
-Data Analyst with 5+ years of experience in product, operational and financial analytics.
+Data Analyst with 5+ years of experience in product, operational and financial analytics
 
 ## Tech Stack
 
@@ -28,6 +28,22 @@ Data Analyst with 5+ years of experience in product, operational and financial a
 * Advanced SQL
 * BigQuery
 
+## Featured Projects
+
+### Analytics Engineering Playground
+Learning project focused on:
+- BigQuery
+- SQL transformations
+- Star schema modeling
+- Data marts
+- Data quality checks
+
+### Music Recommendation System
+Research-oriented recommendation system project using:
+- NLP embeddings
+- Audio feature extraction
+- Similarity methods
+  
 ## Contacts
 
 - LinkedIn: [www.linkedin.com](https://www.linkedin.com/in/elisaveta-zarubina-9b4456409/)
