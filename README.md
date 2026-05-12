@@ -30,5 +30,5 @@ Data Analyst with 5+ years of experience in product, operational and financial a
 
 ## Contacts
 
-- LinkedIn: [www.linkedin.com/in/elisaveta-zarubina-9b4456409](https://www.linkedin.com/in/elisaveta-zarubina-9b4456409/)
+- LinkedIn: [www.linkedin.com](https://www.linkedin.com/in/elisaveta-zarubina-9b4456409/)
 - Habr Career: [https://career.habr.com](https://career.habr.com/elisaveta-zarubina)
