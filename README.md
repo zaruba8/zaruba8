@@ -27,3 +27,8 @@ Data Analyst with 5+ years of experience in product, operational and financial a
 * Modern Data Stack
 * Advanced SQL
 * BigQuery
+
+## Contacts
+
+- LinkedIn: https://www.linkedin.com
+- Habr Career: https://career.habr.com
