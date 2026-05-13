@@ -23,11 +23,12 @@ Worked with reporting, dashboards, SQL analytics and business metrics in tech, r
 - Data transformation workflows
 
 ## Featured Projects
-### Music Recommendation System
-Experimental project focused on recommendation approaches, embeddings and feature engineering.
 
 ### Analytics Engineering Playground
-Learning project exploring analytical data modeling, SQL transformations and BigQuery workflows.
+Practice project exploring analytical data modeling, SQL transformations and BigQuery workflows.
+
+### Music Recommendation Exploration
+Experimental project focused on preprocessing, embeddings and analytical experimentation with music-related datasets.
 
 ## Contacts
 - LinkedIn: [www.linkedin.com](https://www.linkedin.com/in/elisaveta-zarubina-9b4456409/)
