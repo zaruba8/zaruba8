@@ -1,50 +1,34 @@
 # Hi, I'm Elisaveta 👋
 
-Data Analyst with 5+ years of experience in product, operational and financial analytics
+Data analyst with experience in operational, product and business analytics.
 
-## Tech Stack
+Worked with reporting, dashboards, SQL analytics and business metrics in tech, retail and restaurant industries.
 
-* SQL
-* Python
-* Power BI
-* PostgreSQL
-* BigQuery
-* ETL
-* Pandas
-* Yandex DataLens
-
-## Background
-
-* Ex-Yandex
-* HSE Master of Data Science
-* Product & Business Analytics
-* Reporting Automation
-* Dashboarding & Data Visualization
+## Main Tools
+- SQL
+- PostgreSQL
+- Power BI
+- Excel
+- Python for analytics
 
 ## Currently Learning
+- BigQuery
+- dbt
+- Analytics engineering concepts
 
-* dbt
-* Modern Data Stack
-* Advanced SQL
-* BigQuery
+## Interests
+- Operational analytics
+- BI and reporting automation
+- Product analytics
+- Data transformation workflows
 
 ## Featured Projects
+### Music Recommendation System
+Experimental project focused on recommendation approaches, embeddings and feature engineering.
 
 ### Analytics Engineering Playground
-Learning project focused on:
-- BigQuery
-- SQL transformations
-- Star schema modeling
-- Data marts
-- Data quality checks
+Learning project exploring analytical data modeling, SQL transformations and BigQuery workflows.
 
-### Music Recommendation System
-Research-oriented recommendation system project using:
-- NLP embeddings
-- Audio feature extraction
-- Similarity methods
-  
 ## Contacts
-
 - LinkedIn: [www.linkedin.com](https://www.linkedin.com/in/elisaveta-zarubina-9b4456409/)
 - Habr Career: [https://career.habr.com](https://career.habr.com/elisaveta-zarubina)
