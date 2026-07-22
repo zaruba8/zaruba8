@@ -31,5 +31,5 @@ Practice project exploring analytical data modeling, SQL transformations and Big
 Experimental project focused on preprocessing, embeddings and analytical experimentation with music-related datasets.
 
 ## Contacts
-- LinkedIn: [www.linkedin-elisaveta-zarubina.com](www.linkedin.com/in/elisaveta-zarubina-48453340b)
+- LinkedIn: [www.linkedin-elisaveta-zarubina.com]([https://www.linkedin.com/in/elisaveta-zarubina-48453340b](https://www.linkedin.com/in/elisaveta-zarubina-48453340b/)
 - Habr Career: [https://career.habr.elisaveta-zarubina.com](https://career.habr.com/elisaveta-zarubina)
